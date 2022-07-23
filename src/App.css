@@ -1,0 +1,113 @@
+
+body{
+    background-color: rgba( 1, 1, 1, .9 );
+    flex: 1;
+}
+
+.align{
+    text-align: 'center';
+    color: 'rgb(2, 134, 227)';
+    margin-top: 10
+}
+
+.values li{
+    text-align: 'center';
+    color: 'rgb(2, 134, 227)';
+    margin-top: 10
+}
+
+.btn{
+    height: 30;
+    width: '10%';
+    color: 'white';
+    background-color: 'rgb(2, 134, 227)';
+    align-content: 'center';
+    margin-left: 15;
+    border-radius: 10
+}
+
+.input-bar{
+    margin-top: 15;
+    height: 50;
+    border-color: "black";
+    color: 'white';
+    border-radius: 10;
+    width:'50%';
+    background-color:'rgb(2, 134, 227)'
+}
+
+.align{
+    text-align: 'center';
+    color: 'rgb(2, 134, 227)';
+    margin-top: 10
+}
+
+.value-container{
+    display: flex;
+    flex-wrap: 'wrap';
+    flex-direction: 'row';
+}
+
+::placeholder{
+    color: white;
+    font-size: medium;
+    font-style: italic;
+}
+
+
+.location p{
+    text-align: center;
+}
+
+.detail-card{
+    background-color: rgb(2, 134, 227);
+    height: "10%";
+    width: "80%";
+    align-self: center;
+    margin-right: 35px;
+    border-radius: 10px;
+    box-shadow: 5px , 2px  , rgb(2, 134, 227);
+}
+
+.detail-card p{
+    font-size: large;
+    margin-left: 15px;
+    color: white;
+}
+
+.value-container h1 {
+    text-decoration-line: underline;
+}
+
+.value-container p{
+    text-align: center;
+}
+
+.left-div{
+    width: 50%;
+}
+
+.mid-div {
+    width: 33%;
+}
+
+.right-div{
+    width: 50%;
+}
+
+.box-text{
+    margin-left: 15px;
+    color: white;
+    font-size: larger;
+}
+
+.project-title{
+    text-align: center;
+    color: white;
+}
+
+.box-header{
+    text-align: center;
+    color: white;
+}
+
